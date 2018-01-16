@@ -1,1 +1,1 @@
-Link to [Jupyter Notebook](./Pyspark_Housing.ipynb)
+Click here for [Jupyter Notebook](./Pyspark_Housing.ipynb)
